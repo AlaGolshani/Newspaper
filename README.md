@@ -1,3 +1,1 @@
-# djangoProject
-
-Newspaper App
+# Newspaper App
